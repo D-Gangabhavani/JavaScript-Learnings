@@ -1,0 +1,11 @@
+let a=60;
+let b=30;
+console.log("Addition of a and b is ",a+b);
+console.log("subatraction of a and b is ",a-b);
+console.log("Multiplication of a and b is ",a*b);
+console.log("Division of a and b is ",a/b);
+console.log("Remainder of a and b is ",a%b);
+console.log("Increment of a is ",++a);
+console.log("Decrement of a is ",--a);
+console.log("Increment of b is ",++b);
+console.log("Decrement of b is ",--b);
