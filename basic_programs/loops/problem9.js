@@ -1,4 +1,4 @@
-//finding the lagest digit
+//finding the largest digit
 let num=58329;
 let largest=0;
 while(num > 0)
