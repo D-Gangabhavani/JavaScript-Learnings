@@ -1,5 +1,6 @@
 //Find the Longest Consecutive Sequence
-function longestConsecutive(arr) {
+function longestConsecutive(arr) //We need to find how many consecutive numbers are present.
+{
     let numbers = new Set(arr);
 
     let maxLength = 0;
